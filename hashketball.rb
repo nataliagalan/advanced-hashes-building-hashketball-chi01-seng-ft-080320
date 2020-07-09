@@ -60,9 +60,12 @@ players_data = {
    },
 
   :away => {
-    :team_name => " ",
-    :colors => [" ", " "],
-    :players => []
+    :team_name => "Charlotte Hornets",
+    :colors => ["Turquoise", "Purple"],
+    :players => [
+
+      
+    ]
   }
  }
 
