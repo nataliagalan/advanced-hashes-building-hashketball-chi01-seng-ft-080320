@@ -43,7 +43,7 @@ players_data = {
 
 
 
-  
+
 
 
   :away => {
