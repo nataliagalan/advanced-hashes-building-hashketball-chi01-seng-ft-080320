@@ -2,10 +2,10 @@
 
 def game_hash
 
-{
-  :home = { }
+players_data = {
+  :home = { },
   :away = { }
  }
 
-
+players_data
 end
