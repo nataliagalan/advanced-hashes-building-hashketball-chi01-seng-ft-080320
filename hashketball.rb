@@ -59,10 +59,6 @@ players_data = {
     ]
    },
 
-
-
-
-
   :away => {
     :team_name => " ",
     :colors => [" ", " "],
