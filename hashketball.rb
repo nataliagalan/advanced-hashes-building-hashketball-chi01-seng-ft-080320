@@ -3,8 +3,8 @@
 def game_hash
 
 players_data = {
-  :home = { },
-  :away = { }
+  :home => { },
+  :away => { }
  }
 
 players_data
