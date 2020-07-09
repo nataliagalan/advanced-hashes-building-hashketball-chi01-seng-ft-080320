@@ -116,10 +116,5 @@ players_data = {
   }
  }
 
-
-
-
-
-
 players_data
 end
