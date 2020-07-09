@@ -8,7 +8,11 @@ players_data = {
     :colors => [" ", " "],
     :players => { }
    },
-  :away => { }
+  :away => { 
+    :team_name => " ",
+    :colors => [" ", " "],
+    :players => { }
+  }
  }
 
 players_data
