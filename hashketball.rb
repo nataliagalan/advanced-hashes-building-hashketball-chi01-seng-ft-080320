@@ -64,7 +64,7 @@ players_data = {
     :colors => ["Turquoise", "Purple"],
     :players => [
 
-      
+
     ]
   }
  }
